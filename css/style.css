@@ -1,17 +1,61 @@
-i.fa-tint {
-  color: #C0392B;
+.heart {
+  background-color: #DB0A5B;
+  width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+.female {
+  background-color: #F62459;
+  width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+.blood {
+  background-color: #C0392B;
+  width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+.home {
+  background-color: #19b5fe;
+  width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
 }
 
 i.fa-heart {
-  color: #DB0A5B;
+  margin-top: 16px;
+  margin-left: 13px;
+  color: #fff;
 }
 
 i.fa-female {
-  color: #F62459;
+  margin-top: 14px;
+  margin-left: 24px;
+  color: #fff;
 }
 
 i.fa-home {
-  color: #19b5fe;
+  margin-top: 13px;
+  margin-left: 16px;
+  color: #fff;
+}
+
+i.fa-tint {
+  margin-top: 18px;
+  margin-left: 28px;
+  color: #fff;
 }
 
 .btn-danger {
