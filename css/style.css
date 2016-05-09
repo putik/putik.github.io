@@ -1,5 +1,4 @@
 i.fa-tint {
-  margin-top: 30px;
   color: #C0392B;
 }
 
@@ -9,12 +8,14 @@ i.fa-heart {
 
 i.fa-female {
   color: #F62459;
-  margin-top: 30px;
 }
 
 i.fa-home {
   color: #19b5fe;
-  margin-top: 30px;
+}
+
+.btn-danger {
+  margin-bottom: 30px;
 }
 
 footer {
