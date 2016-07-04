@@ -1,9 +1,6 @@
-#headline {
-	font-weight: 900;
-}
-h4 {
-	color: #9b59b6;
-}
+#headline { font-weight: 900; }
+h4 { color: #9b59b6; }
+
 .navigation {
 	left: 0;
 	max-width: 100%;
