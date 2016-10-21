@@ -111,6 +111,12 @@
 img.article-image {
   width: 100%;
   height: auto;
+  padding: 10px;
+  margin-right: 20%;
+}
+
+.mdl-card__media {
+  background-color: white !important;
 }
 
 .portfolio-max-width {
